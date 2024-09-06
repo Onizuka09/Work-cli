@@ -1,0 +1,17 @@
+{
+ "data":[
+  {
+    "name": "apple",
+    "color": "green"
+  },
+  {
+    "name": "banana",
+    "color": "yello"
+  },
+  {
+    "name": "kiwi",
+    "color": "green"
+  }
+ ]
+
+}
